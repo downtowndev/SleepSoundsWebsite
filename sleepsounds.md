@@ -4,7 +4,7 @@
 <h3>Download on the Apple App or Google Play stores today!</h3>
 
 <p>
-  Apple App Store: <a href="https://apps.apple.com/us/app/sleep-sounds-calm-relaxing/id6444049878">https://apps.apple.com/us/app/sleep-sounds-calm-relaxing/id6444049878</a></p>
+  Apple App Store: <a href="https://apps.apple.com/us/app/sleep-sounds-calm-relaxing/id6444049878">https://apps.apple.com/us/app/sleep-sounds-calm-relaxing/id6444049878</a>
 </p>
 <p>
   Google Play Store: Coming soon!
